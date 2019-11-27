@@ -1,0 +1,13 @@
+@mixin slh{
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+@mixin clear {
+  &::after{
+    content: '';
+    display: block;
+    clear: both;
+    
+  }
+}

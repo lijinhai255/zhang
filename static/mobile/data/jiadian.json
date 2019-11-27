@@ -1,0 +1,36 @@
+[
+	{
+		"title": "大家电",
+		"data": [
+			{
+				"img": "kongtiao.jpg", "text": "空调"
+			},
+			{
+				"img": "bingxiang.jpg", "text": "冰箱"
+			},
+			{
+				"img": "dianshi.jpg", "text": "电视"
+			},
+			{
+				"img": "xiyiji.jpg", "text": "洗衣机"
+			}
+		]
+	},
+	{
+		"title": "生活电器",
+		"data": [
+			{
+				"img": "dianhuaji.jpg", "text": "电话机"
+			},
+			{
+				"img": "juan.jpg", "text": "卷/直发器"
+			},
+			{
+				"img": "dianfengshan.jpg", "text": "电风扇"
+			},
+			{
+				"img": "lengfengshan.jpg", "text": "冷风扇"
+			}
+		]
+	}
+]

@@ -1,0 +1,226 @@
+{
+	"product": [
+		{
+			"id": 1,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"price_old": 360,
+			"price_now": 299,
+			"img": [
+				{
+					"id": 0,
+					"img":"static/images/detail/img1.jpg"
+				},
+				{
+					"id": 1,
+					"img":"static/images/detail/img2.jpg"
+				},
+				{
+					"id": 2,
+					"img":"static/images/detail/img3.jpg"
+				},
+				{
+					"id": 3,
+					"img":"static/images/detail/img4.jpg"
+				},
+				{
+					"id": 4,
+					"img":"static/images/detail/img5.jpg"
+				}
+			],
+			"colors": [
+				{
+					"id": 0,
+					"color": "红色",
+					"img":"static/images/detail/img1.jpg",
+					"size": [
+						{
+							"size": 160,
+							"num":233
+						},
+						{
+							"size": 165,
+							"num":13
+						},
+						{
+							"size": 170,
+							"num":0
+						},
+						{
+							"size": 175,
+							"num":0
+						},
+						{
+							"size": 185,
+							"num":47
+						}
+					]
+				},
+				{
+					"id": 1,
+					"color": "绿色",
+					"img":"static/images/detail/img2.jpg",
+					"size": [
+						{
+							"size": 160,
+							"num":0
+						},
+						{
+							"size": 165,
+							"num":0
+						},
+						{
+							"size": 170,
+							"num":0
+						},
+						{
+							"size": 175,
+							"num":0
+						},
+						{
+							"size": 185,
+							"num":0
+						}
+					]					
+				},
+				{
+					"id": 2,
+					"color": "粉色",
+					"img":"static/images/detail/img3.jpg",
+					"size": [
+						{
+							"size": 160,
+							"num":1
+						},
+						{
+							"size": 165,
+							"num":13
+						},
+						{
+							"size": 170,
+							"num":0
+						},
+						{
+							"size": 175,
+							"num":1
+						},
+						{
+							"size": 185,
+							"num":1
+						}
+					]
+				}
+			],
+			"infoImg": [
+				"static/images/icon/3.jpg",
+				"static/images/icon/4.jpg",
+				"static/images/icon/5.jpg"
+			]
+		}
+	],
+	"relatedProduct": [
+		{
+			"id": 1,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"img": "static/images/yifu/yifu1.jpg",
+			"price": 234
+		},
+		{
+			"id": 2,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"img": "static/images/yifu/yifu2.jpg",
+			"price": 234
+		},
+		{
+			"id": 3,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"img": "static/images/yifu/yifu3.jpg",
+			"price": 234
+		},
+		{
+			"id": 4,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"img": "static/images/yifu/yifu4.jpg",
+			"price": 234
+		},
+		{
+			"id": 5,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"img": "static/images/yifu/yifu5.jpg",
+			"price": 234
+		},
+		{
+			"id": 6,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"img": "static/images/yifu/yifu6.jpg",
+			"price": 234
+		},
+		{
+			"id": 7,
+			"name1": "女式超柔软拉毛运动开衫",
+			"name2": "匠心剪裁，垂感质地",
+			"img": "static/images/yifu/yifu7.jpg",
+			"price": 234
+		}
+
+	],
+	"zhuanti": [
+		{
+			"title": "专题推荐",
+			"list": [
+				{
+					"img": "static/images/icon/1.jpg",
+					"title": "5个给春天的生活新提案"
+				},
+				{
+					"img": "static/images/icon/2.jpg",
+					"title": "东京新生活"
+				}
+			]
+		}
+	],
+	"hotSale": [
+		{
+			"title": "24小时热销榜",
+			"list": [
+				{
+					"id": 1,
+					"name1": "女式超柔软拉毛运动开衫",
+					"name2": "匠心剪裁，垂感质地",
+					"price_now": 299,
+					"img": "static/images/detail/img1.jpg"
+				},
+				{
+					"id": 2,
+					"name1": "女式超柔软拉毛运动开衫",
+					"name2": "匠心剪裁，垂感质地",
+					"price_now": 299,
+					"img": "static/images/detail/img3.jpg"
+				},
+				{
+					"id": 3,
+					"name1": "女式超柔软拉毛运动开衫",
+					"name2": "匠心剪裁，垂感质地",
+					"price_now": 299,
+					"img": "static/images/detail/img2.jpg"
+				},
+				{
+					"id": 4,
+					"name1": "女式超柔软拉毛运动开衫",
+					"name2": "匠心剪裁，垂感质地",
+					"price_now": 299,
+					"img": "static/images/detail/img4.jpg"
+				}
+			]
+		}
+	],
+	"miaosha": [
+		{"time": "2019-2-23"}
+	]
+}

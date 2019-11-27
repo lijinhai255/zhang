@@ -1,0 +1,61 @@
+body, html {
+	line-height: 1;
+	font-weight: 200;
+	font-family: 'PingFang SC';
+	background: #efefef;
+}
+img{
+	display: block;
+	width:100%;
+	height: 100%;
+}
+.clearfix{
+	display: inline-block;
+	&:after{
+		content: '';
+		display: block;
+		height: 0px;
+		line-height: 0px;
+		clear: both;
+		visibility: hidden;
+	}
+}
+// 截字
+@mixin ellipsis() {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+@mixin bg-image($url){
+	background-image: url($url+'@2x.png')
+// 	@media( -webit-min-device-pixel-ratio:3),( min-device-pixel-ratio:3){{
+// 		background-image: url($url+'@3x.png')
+// 	}
+}
+
+$navColor: #f63;
+
+/*  制作三角形
+* $w: 宽度
+* $c:颜色
+* $dir:方向
+*/
+@mixin arrow($w: 10px, $c: #000, $dir: top) {
+    width: 0;
+    font-size: 0;
+    border: $w solid transparent;
+    border-#{$dir}-color: $c;
+}
+
+// 清除浮动
+@mixin clearfix() {
+    &:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+}
+
+.mgb-10{
+    margin-bottom: 10px;
+}

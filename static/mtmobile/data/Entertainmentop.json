@@ -1,0 +1,43 @@
+{
+  "rows": [{
+    "joyRichButtonComponentList": [{
+      "needCutFlag": false,
+      "type": 4,
+      "adTitle": null,
+      "adTitleUrl": "https://p1.meituan.net/dpnewvc/8f7f94771697dc05f196c2c5857ac6e91101.png",
+      "adSubTitle": "清秀阁自助画室",
+      "thumb": "https://p0.meituan.net/merchantpic/f1da83d9787de69474ff0359e37e1e0f6838914.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "link": "https://m.dianping.com/play/main/coupon?latitude\u003d*\u0026longitude\u003d*",
+      "dealGroupId": null,
+      "price": "[{\"backgroundcolor\":\"#00FFFFFF\",\"strikethrough\":false,\"text\":\"¥\",\"textcolor\":\"#FD6633\",\"textsize\":10,\"textstyle\":\"Default\",\"underline\":false},{\"backgroundcolor\":\"#00FFFFFF\",\"strikethrough\":false,\"text\":\"10\",\"textcolor\":\"#FD6633\",\"textsize\":14,\"textstyle\":\"Default\",\"underline\":false}]",
+      "tag": "{\"backgroundcolor\":\"#00FFFFFF\",\"strikethrough\":false,\"text\":\"团购抵用券\",\"textcolor\":\"#FF9900\",\"textsize\":10,\"textstyle\":\"Default\",\"underline\":false}",
+      "commonFeedBack": "领券中心",
+      "text":"团购抵用券",
+      "adFeedBack": null,
+      "monitorImplUrl": null,
+      "monitorClickUrl": null,
+      "adShowFlag": false,
+      "maiDian": "%7B%22policyTypes%22%3A%2212%22%2C%22traceId%22%3A%22847898972%22%2C%22modelStrategy%22%3Anull%2C%22abTestTag%22%3A%2221%22%7D",
+      "couponGroupId": "3c787369daa9ca1430d4fad498b3e4acbe3dfc4b66d0984d"
+    }, {
+      "needCutFlag": null,
+      "type": 3,
+      "adTitle": null,
+      "adTitleUrl": "https://op.meituan.net/oppkit_pic/0yuanshiwan_xiuxianyule/e550fb812c971a0ec741c1124a274973.png",
+      "adSubTitle": "全城狂欢",
+      "thumb": "https://op.meituan.net/oppkit_pic/0yuanshiwan_xiuxianyule/95a8be8dac6b491eb0651dd01241992b.png",
+      "link": "https://m.dianping.com/play-next/node/freetry/index",
+      "dealGroupId": null,
+      "price": null,
+      "tag": "{\"backgroundcolor\":\"#00FFFFFF\",\"strikethrough\":false,\"text\":\"品质休闲0元抢\",\"textcolor\":\"#FF9900\",\"textsize\":10,\"textstyle\":\"Default\",\"underline\":false}",
+      "commonFeedBack": "免费体验D",
+      "text":"品质休闲0元抢",
+      "adFeedBack": null,
+      "monitorImplUrl": null,
+      "monitorClickUrl": null,
+      "adShowFlag": false,
+      "maiDian": null,
+      "couponGroupId": null
+    }]
+  }]
+}

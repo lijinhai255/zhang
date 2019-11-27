@@ -1,0 +1,62 @@
+.tskeawayhome{
+  padding: 10px 10px;
+  background: #fff;
+  // margin-top: 10px;
+  overflow: hidden;
+  .tskeawayhome-pic{
+    float: left;
+    width: 27%;
+    img{
+      width: 90%;
+    }
+  }
+  .tskeawayhome-right{
+    float: left;
+    width: 68%;
+    margin-left: 8px;
+    h4{
+      font-size: 15px;
+    }
+    .el-icon-star-on{
+      font-size: 11px;
+    }
+    span{
+      font-size: 12px;
+    }
+    .time{
+      display: inline-block;
+      float: right;
+      span{
+        padding: 0 3px;
+        &:last-child{
+          border-left: 1px solid #eee;
+        }
+      }
+    }
+    .monwy{
+
+      span{
+        padding-right: 5px;
+      }
+    }
+    .recommendInfo{
+      font-size: 12px;
+      padding: 9px 0;
+      img{
+        float: left;
+        width: 16px;
+      }
+      div{
+        float: left;
+        padding-left: 5px;
+      }
+      p{
+        float: right;
+        background: orange;
+        padding: 0 5px;
+        border-bottom-right-radius: 8px;
+        border-top-left-radius: 8px;
+      }
+    }
+  }
+}

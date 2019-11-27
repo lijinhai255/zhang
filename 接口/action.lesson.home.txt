@@ -1,0 +1,28 @@
+课程首页接口
+请求地址    /action/lesson/home
+请求方式    GET
+文档类型    application/json
+编码格式    ...
+
+请求数据
+    query   query携带的数据
+        type    课程类型
+    post    post请求携带的数据
+        page    第几页数据
+
+返回数据
+    {       返回的数据
+        errno   返回的状态，0表示成功
+        msg     请求失败，提示的信息
+        data<Array>     返回的数据
+            [           每一个成员对象代表一个课程数据
+                {
+                    _id     课程id
+                    img     课程图片
+                    title   课程标题
+                    sales   课程销量
+                    price   课程价格
+                    type    课程类型
+                }
+            ]
+    }

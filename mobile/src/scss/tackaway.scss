@@ -1,0 +1,58 @@
+.searchtop{
+  height: 50px;
+  background: #000;
+  color: #fff;
+  padding: 0 10px;
+  font-size: 14px;
+  position: relative;
+  .searchtop-l{
+    width: 100%;
+    line-height: 50px;
+  }
+  .searchtop-r{
+    position: absolute;
+    padding-right: 15px;
+    right: 0;
+    top: 0px;
+    height: 50px;
+    width: 50%;
+    line-height: 30px;
+    p{
+      padding-left: 10px;
+      background: #eee;
+      color: rgb(84, 84, 84);
+      height: 30px;
+      border-radius: 18px;
+      margin-top: 10px;
+    }
+
+  }
+  
+}
+.shangjia{
+  text-align: center;
+  font-size: 18px;
+  height: 30px;
+  line-height: 30px;
+  background: #fff;
+  span{
+    color:#ccc;
+  }
+}
+.ul-ou{
+  display: flex;
+  margin-top: 2px;
+  text-align: center;
+  background: #fff;
+  padding: 6px 0;
+  // height: 30px;
+  li{
+    flex: 1;
+    border-right: 1px solid #ccc;
+    color: #666;
+    font-size: 14px;
+    &:last-child{
+      border-right: none;
+    }
+  }
+}

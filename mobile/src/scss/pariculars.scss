@@ -1,0 +1,193 @@
+.particulars-top {
+  height: 60px;
+  background: #fff;
+  display: flex;
+  font-size: 24px;
+  text-align: center;
+
+  i {
+    font-weight: bolder;
+  }
+
+  .frist-p {
+    width: 50px;
+    float: left;
+    line-height: 60px;
+  }
+
+  div {
+    line-height: 60px;
+    font-size: 22px;
+    flex: 1;
+  }
+
+  .last-p {
+    line-height: 60px;
+
+    width: 50px;
+    float: right;
+  }
+}
+
+.defaultPic {
+  padding: 8px 15px 0 15PX;
+  background: #fff;
+  overflow: hidden;
+
+  .shopname {
+    font-size: 22px;
+    padding-bottom: 10px;
+  }
+
+  i {
+    color: darkorange;
+    font-size: 18px;
+  }
+
+  span {
+    font-size: 13px;
+    padding-left: 6px;
+  }
+
+  .bscrollone {
+    position: absolute;
+    width: 200%;
+    height: 100px;
+
+    img {
+      height: 100px;
+    }
+  }
+
+  .shopplace {
+    height: 30px;
+    font-size: 12px;
+    line-height: 30px;
+    color: #777;
+  }
+}
+
+.pics {
+  padding: 0px;
+  margin: 10px 0;
+
+  .pic-wrapper {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  /*当子元素超过父元素宽度的时候，不会折行*/
+  .pic-list {
+    font-size: 0;
+  }
+
+  .pic-item {
+    display: inline-block;
+    margin-right: 6px;
+    width: 120px;
+    height: 90px;
+
+    &:last-child {
+      margin: 0;
+    }
+  }
+
+  .shopwork {
+    margin: 15px 0 0px 0;
+    border-top: 1px solid #eee;
+    height: 37px;
+    line-height: 37px;
+    i{
+      color: #000;
+    }
+    .el-icon-phone {
+      float: right;
+      line-height: 37px;
+      padding-right: 20px;
+      color: rgb(190, 165, 20);
+    }
+  }
+
+}
+
+
+.ull {
+  margin-top: 8px;
+  display: flex;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  background: #fff;
+
+  li {
+    flex: 1;
+  }
+}
+
+.tuano {
+  padding: 10px;
+  background: #fff;
+
+  .tuano-1 {
+    overflow: hidden;
+    height: 30px;
+
+    img {
+      float: left;
+      width: 20px;
+    }
+
+    p {
+      float: left;
+      padding-left: 10px;
+    }
+  }
+
+  .hhh {
+    height: 66px;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    .tit-img {
+      float: left;
+      padding-left: 22px;
+      img {
+        height: 50px;
+      }
+    }
+
+    .tit {
+
+      p {
+        @include slh();
+        padding-left: 8px;
+        padding-right: 10px;
+      }
+      span{
+        padding-left: 8px;
+        display: inline-block;
+        height: 30px;
+        line-height: 30px;
+        color:#f60;
+        &:last-child{
+          float: right;
+          color: #777;
+          font-size: 13px;
+          padding-right: 10px;
+        }
+      }
+    }
+  }
+}
+.but{
+  .but-t{
+ height: 50px;
+ line-height: 50px;
+ text-align: center;
+ border-top: 1px solid #ccc;
+ }
+ .v{
+   display: none;
+ }
+
+}

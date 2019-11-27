@@ -1,0 +1,30 @@
+[
+	{
+		"title": "外设产品",
+		"data":[
+			{
+			"img": "01.jigui.jpg", "text": "网络机柜"
+			},
+			{
+				"img": "02.xianlan.jpg", "text": "线缆"
+			},
+			{
+				"img": "03.upan.jpg", "text": "U盘"
+			},
+			{
+				"img": "04.yingpan.jpg", "text": "移动硬盘"
+			}
+		]
+	},
+	{
+		"title": "游戏外设",
+		"data": [
+			{
+				"img": "04.erji.jpg", "text": "游戏耳机"
+			},
+			{
+				"img": "06.shoubing.jpg", "text": "手柄/方向盘"
+			}
+		]
+	}
+]
